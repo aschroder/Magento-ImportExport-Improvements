@@ -1,0 +1,7 @@
+This class can be placed in app/code/local/Mage/ImportExport to override the core csv import function.
+
+Improvements:
+- single line format
+- import from google docs
+
+Improvements are described ifully at aschroder.com.
